@@ -1,5 +1,3 @@
-# Django-Celery-Redis
-
 # ⚙️ Django + Celery + Redis (Async Task Queue)
 
 Welcome to my **Django Celery Redis** lab — a focused project where I implement asynchronous background task processing in Django using Celery with Redis as the message broker, all containerized using Docker.
