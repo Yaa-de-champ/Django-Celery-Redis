@@ -27,10 +27,12 @@ To build a production-ready setup for running background tasks (such as image pr
 - **Monitoring**: Flower (optional)
 - **Database**: PostgreSQL or SQLite (configurable)
 
-👩🏽‍💻 About Me
+
+## 👩🏽‍💻 About Me
 I’m Nana Yaa — a biomedical engineering student passionate about backend development and AI for healthcare. This repo is part of my journey toward mastering production-grade asynchronous systems.
 
+
 📬 Connect
-🌐 (LinkedIn) [https://www.linkedin.com/in/nana-yaa-adomaa-doku-amponsah-078854235/]
-💌 (Email) [dokuamponsahnanayaaadomaa@gmail.com]
+🌐 LinkedIn [https://www.linkedin.com/in/nana-yaa-adomaa-doku-amponsah-078854235/] <br>
+💌 Email [dokuamponsahnanayaaadomaa@gmail.com]
 
